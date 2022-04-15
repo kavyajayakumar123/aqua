@@ -1,0 +1,198 @@
+*{
+    padding: 0;
+    margin: 0;
+}
+body{
+
+
+font-family: 'Poppins', sans-serif;
+}
+.main{
+    background-image: url(https://www.befreetour.com/img/produk/ramayana-water-park/ramayana-water-park_bfde0dadf24f4bdbcfafd1d13e6baf37ee6d0227.jpg);
+    background-position: center;
+    background-repeat: no-repeat;
+    background-size: cover;
+    width: 100%;
+    height: 70vh;
+}
+.main h2{
+    background-color: rgb(252, 165, 84);
+    text-align: center;
+    height: 8vh;
+    padding-top: 13px;
+    font-size: 43px;
+    letter-spacing: 6px;
+}
+.main{
+    margin-top: 30px;
+
+}
+.main h1{
+    font-size: 80px;
+    letter-spacing: 2px;
+    margin-left: 490px;
+    padding-top: 120px;
+    color: rgb(80, 3, 3);
+}
+.main h3{
+    margin-left: 550px; 
+    font-size: 30px;
+    font-style: inherit;
+    padding-top: 2px;
+
+}
+.main p{
+    margin-left: 510px;
+    font-size:29px ;
+}
+.main button{
+    margin-left: 540px;
+    font-size:23px ;
+    width: 200px;
+    letter-spacing: 3px;
+    color: white;
+    background-color: orange;
+    border-radius: 10px;
+    font-family: monospace;
+}
+.main button:hover{
+    background-color: rgb(248, 6, 6);
+}
+.first,  .second, .third ,.fourth{
+    background-image: url(https://images.unsplash.com/photo-1445112098124-3e76dd67983c?ixlib=rb-1.2.1&ixid=MnwxMjA3fDB8MHxzZWFyY2h8MXx8Ymx1ZSUyMHdhdGVyfGVufDB8fDB8fA%3D%3D&w=1000&q=80);
+    
+}
+.contents{
+    display: flex;
+    flex-direction: row;
+    height: 25vh;
+    margin-left: 2px;
+    margin-top: 10px;
+    
+}
+.contents .first .second .third .fourth, button{
+    width: 87px;
+    font-size: 16px;
+    border-radius: 10px;
+}
+
+.first button{
+    background-color: red;
+}
+
+.second button{
+    background-color: green;
+}
+.third button{
+    background-color: hotpink;
+}
+.fourth button{
+    background-color: yellow;
+}
+.gallery h1{
+    width: 100%;
+    height:8vh;
+    background-color: rgb(68, 68, 236);
+    padding-left: 10px;
+    color: white;
+}
+.pics img{
+    width: 430px;
+    height: 25vh;
+}
+.pics{
+    margin-left: 25px;
+    margin-top: 15px;
+}
+.left img{
+    width: 100%;
+    height: 100vh;
+    margin-top: 2px;
+}
+.reg{
+    display: flex;
+    margin-top: 5px;
+    justify-content: row;
+}
+.right h1{
+    margin-top: 95px;
+    font-size: 32px;
+    padding-left: 30px;
+}
+.details{
+    height: 60vh;
+    padding-top: 40px;
+    padding-left: 34px;
+}
+hr{
+    width: 240%;
+    
+}
+.details #registration{
+    width: 990px;
+    background-color: rgb(241, 169, 116);
+}
+.reg .right{
+background-image: linear-gradient(to bottom right,rgb(228, 202, 154), rgb(129, 187, 212));
+    width: 70%;
+}
+.last{
+    color: white;
+    width: 30%;
+    padding-top: 13%;
+    padding-left: 5%;
+    font-size: 40px;
+}
+.attract{
+    background-image: url(https://pyt-blogs.imgix.net/2020/09/Amusement-park-Delhi.jpeg?auto=format&ixlib=php-3.3.0);
+    width: 100%;
+    height:70vh;
+    background-position: center;
+    background-repeat: no-repeat;
+    background-size: cover;
+}
+.container{
+    display: flex;
+    flex-direction: row;
+}
+.container .right img{
+    height: 40%;
+}
+#attractimage{
+    height: 50vh;
+}
+.attractleft{
+    margin-top: 50px;
+    margin-left: 50px;
+    width: 41%;
+}
+.attractleft #head{
+    font-size: 28px;
+    color: brown;
+    margin-top: 30px;
+}
+.attractleft #subhead{
+    color: black;
+    font-size: 36px;
+    padding-left: 20px;
+    padding-top: 1px;
+}
+.attractleft p{
+    padding-top: 15px;
+}
+.attractleft h2{
+    margin-top: 18px;
+background-color: crimson;
+width: 250px;
+text-align: center;
+}
+.attractright #attractimage{
+    width: 169%;
+    height: 60vh;
+}
+.attractleft ul{
+    margin-top: 30px;
+}
+li{
+    height: 40px;
+}
